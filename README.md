@@ -8,7 +8,7 @@
 * Hernandez Domínguez Bryan.
 
 ## Asignatura:
-* Diseño de Elementos Mecánicos.
+* Diseño de Elementos Mecánicos - 6to - C; Ingeniería Mecatróncia.
 
 ## Descripción
 Este repositorio contiene el código en Python para automatizar los cálculos de diseño por fatiga bajo cargas combinadas (flexión y torsión). El script utiliza interpolación bidimensional para obtener de manera precisa los factores de concentración de esfuerzo (Kt, Kts) y las sensibilidades a la muesca (q, qc) a partir de gráficas estandarizadas. 
