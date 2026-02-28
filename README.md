@@ -1,5 +1,14 @@
 # U2_ACT_02_PROBLEMARIO-SOLUCION-COMPUTADORA
+
 # Calculadora de Criterios de Falla por Fatiga ⚙️
+
+## Autores:
+* Fuentes de la Cruz Bernardo (autor del código).
+* De La Fuente Chapuz Enrique.
+* Hernandez Domínguez Bryan.
+
+## Asignatura:
+* Diseño de Elementos Mecánicos.
 
 ## Descripción
 Este repositorio contiene el código en Python para automatizar los cálculos de diseño por fatiga bajo cargas combinadas (flexión y torsión). El script utiliza interpolación bidimensional para obtener de manera precisa los factores de concentración de esfuerzo (Kt, Kts) y las sensibilidades a la muesca (q, qc) a partir de gráficas estandarizadas. 
